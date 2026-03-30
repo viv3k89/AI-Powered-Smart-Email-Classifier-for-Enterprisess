@@ -1,1 +1,1 @@
-# AI-Powered-Smart-Email-Classifier-for-Enterprisess
+# AI-Powered-Smart-Email-Classifier-for-Enterprises
