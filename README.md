@@ -19,21 +19,28 @@ Reduce manual workload
 
 #📁 Project Structure
 AI-Powered-Smart-Email-Classifier/
+
 │
 ├── app.py                         # Main application file
 ├── requirements.txt               # Dependencies
 ├── README.md                      # Project documentation
 │
+
+
 ├── data/
 │   ├── Dataset_in_Excel_Format.xlsx
 │   ├── Final_Preprocessed_Dataset.csv
 │
+
+
 ├── notebooks/
 │   ├── Preprocessing.ipynb
 │   ├── BERT_EMBEDDING.ipynb
 │   ├── Module_2_and_3.ipynb
 │   ├── AI_EMAIL_CLASSIFIER.ipynb
 │
+
+
 ├── configs/
 │   ├── Category config.json
 │   ├── Category tokenizer.json
@@ -42,12 +49,18 @@ AI-Powered-Smart-Email-Classifier/
 │   ├── urgency_tokenizer.json
 │   ├── urgency_tokenizer_config.json
 │
+
+
 ├── models/
 │   ├── category_encoder.pkl
 │   ├── urgency_encoder.pkl
 │
+
+
 ├── docs/
 │   ├── Preprocessing documentation.docx
 │   ├── Work flow document.docx
 │
+
+
 └── LICENSE
